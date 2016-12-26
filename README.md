@@ -24,8 +24,11 @@ python code to procedurally generate Blink Palermo Style Images from the collect
       |------------------|      |------------------|      |------------------|      |------------------|
       |         B        |      |         D        |      |         F        |      |         H        |
       |------------------|      |------------------|      |------------------|      |------------------|
+~~~~
 
 The 4 Panels is created from the following array of 8 tuples (A,B,C,D,E,F,G,H) where:
+
+~~~~
           A               B              C               D              E                F              G                H
   ( (32, 146, 138), (136, 58, 48), (208, 83, 51), (232, 209, 105), (27, 35, 116), (222, 142, 153), (30, 57, 52),  (212, 136, 40) )
 ~~~~
