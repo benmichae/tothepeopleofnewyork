@@ -1,8 +1,17 @@
 # To The People Of New York City
-python code to procedurally generate Blink Palermo Style Images from the collection To the People of New York City.
+python code to procedurally generate Blink Palermo Style Images from the collection To the People of New York City and Times of the Day.
 
-## example output file
-![Screenshot](https://github.com/benmichae/tothepeopleofnewyork/blob/master/toThePeopleOfNewYorkCity.png)
+## To The People of New York City
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20toThePeopleOfNewYorkCity%20VII.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20toThePeopleOfNewYorkCity%20VIII.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20toThePeopleOfNewYorkCity%20IX.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20toThePeopleOfNewYorkCity%20X.png)
+## Times of the Day 
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20I%20.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20II.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20IV.pngg)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20V.png)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20VI.png)
 
 ## Art Notes
 * Original Inspiration is Palermo - "To the People of New York" Collection.
