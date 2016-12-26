@@ -12,6 +12,8 @@ python code to procedurally generate Blink Palermo Style Images from the collect
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20IV.png)
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20V.png)
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20VI.png)
+## Coney Island II
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20Coney%20Island%20II.png)
 
 ## Art Notes
 * Original Inspiration is Palermo - "To the People of New York" Collection.
