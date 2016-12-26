@@ -9,7 +9,7 @@ python code to procedurally generate Blink Palermo Style Images from the collect
 ## Times of the Day 
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20I%20.png)
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20II.png)
-![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20IV.pngg)
+![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20IV.png)
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20V.png)
 ![Screenshot](https://github.com/benmichae/tothepeopleofnewyorkcity/blob/master/benmichae%20-%20Palermo%20-%20%20Times%20Of%20The%20Day%20VI.png)
 
